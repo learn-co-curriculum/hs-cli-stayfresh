@@ -1,7 +1,7 @@
 ---
 tags: kids, cli
 languages: cli
-level: beginner
+level: 1
 type: contingency
 ---
 
